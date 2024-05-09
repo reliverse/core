@@ -1,2 +1,3 @@
-# core
+# @reliverse/core
+
 @reliverse/core
