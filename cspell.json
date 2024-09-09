@@ -1,0 +1,43 @@
+{
+  "dictionaries": [],
+  "ignorePaths": [
+    "**/*.lock",
+    "**/*.txt",
+    "build",
+    "dist",
+    "out",
+    "eslint.config.js",
+    "pnpm-lock.yaml"
+  ],
+  "ignoreWords": [],
+  "import": [],
+  "language": "en",
+  "version": "0.2",
+  "words": [
+    "appts",
+    "astro",
+    "astrojs",
+    "Blefnk",
+    "destr",
+    "Fiverr",
+    "knip",
+    "Kornienko",
+    "Korniienko",
+    "Nazar",
+    "Nazarii",
+    "pathe",
+    "Polski",
+    "redrun",
+    "Relivator",
+    "reliverse",
+    "subdir",
+    "testdir",
+    "testfile",
+    "testfolder",
+    "tsup",
+    "typecheck",
+    "venv",
+    "YOOOOOO",
+    "українська"
+  ]
+}
